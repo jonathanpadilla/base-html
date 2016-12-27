@@ -1,0 +1,21 @@
+/*base*/
+#wrapper, .width-full{
+	width:100%;
+	position:relative;
+}
+
+.width-primary{
+	max-width: 1030px;
+	margin: 0 auto;
+	border:1PX solid black;
+	padding:0 15px;
+}
+
+.padding-0{
+	padding:0 !important;
+}
+
+/*espacio*/
+.space-20{
+	height:20px;
+}
