@@ -1,5 +1,17 @@
 /*background*/
+.bg-personalized{
+	background-color: #563d7c;
+}
 
-.bg-gray{
-	background-color: #808080;
+.bg-white{
+	background-color: #ffffff;
+}
+
+/*textos*/
+.text-personalized{
+	color: #563d7c;
+}
+
+.text-white{
+	color: #ffffff;
 }
